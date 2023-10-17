@@ -30,8 +30,4 @@ src="https://img.shields.io/github/followers/alexoiik?logo=github&style=for-the-
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
 <a href="http://www.github.com/alexoiik"><img src="https://github-readme-stats.vercel.app/api?username=alexoiik&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&show_icons=true" alt="alexoiik's GitHub stats" /></a>
-
-<a href="http://www.github.com/alexoiik"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alexoiik&stroke=ffffff&background=181824&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
