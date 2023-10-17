@@ -1,8 +1,7 @@
 Hi 👋 I'm alexoiik
 ================================================================================================================================
 
-<</tr>Alexandros Oikonomou</tr>/>
------------------------
+### <</tr>Alexandros Oikonomou</tr>/>
 
 I'm a passionate Software Engineer from Greece 😃 <br/>
 Also an Undergraduate Student, Developer and Designer 👨🏻‍💻
