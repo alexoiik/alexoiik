@@ -6,7 +6,7 @@ I'm a passionate Software Engineer from Greece 😃 <br/>
 Also a Developer and Designer 👨🏻‍💻
 
 * 🌍  I'm based in Ioannina and Thessaloniki, Greece
-* 🎓  I gradutated with an Integrated Master's degree from the department of [IEE](https://www.iee.ihu.gr/en/)
+* 🎓  I graduated with an Integrated Master's degree from the department of [IEE](https://www.iee.ihu.gr/en/)
 * 🖥️  See my portfolio website at [alexoiik.github.io](http://alexoiik.github.io)
 * ✉️  You can contact me at [alexoik2001@gmail.com](mailto:alexoik2001@gmail.com)
 * 🤝  I'm open to collaborating on any exciting project as a developer and designer!
